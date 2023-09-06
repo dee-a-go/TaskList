@@ -1,0 +1,29 @@
+.edit-task-form {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: left;
+}
+
+.edit-task-input {
+  width: 297px;
+  font-size: 18px;
+  background-color: white;
+  padding: 12px 30px 10px 14px;
+  border: 2px solid #00471b;
+  border-radius: 20px 10px 10px 20px;
+  outline: none;
+}
+
+.edit-task-button {
+  padding: 10px;
+  font-size: 18px;
+  font-family: Roboto, sans-serif;
+  border: 1px solid #6e6e6e;
+  border-radius: 10px;
+  cursor: pointer;
+  outline: none;
+  background-color: #5e3b40;
+  color: #fff;
+  text-transform: capitalize;
+}
